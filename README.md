@@ -1,5 +1,5 @@
 **Project Report: Lightweight Fine-Tuning of GPT-2 Using LoRA**
- Udacity GenAI nanodegree project
+
 
 
 ### **Overview**
