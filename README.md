@@ -70,5 +70,5 @@ This project focuses on lightweight fine-tuning of the GPT-2 model using the LoR
 4. **Application Potential**:
    - Lightweight fine-tuning with LoRA demonstrates practical applicability in resource-constrained environments while maintaining strong performance gains.
 
-### **Aknowledgments**elp 
+### **Acknowledgments**
    I am grateful that I live in the era of Gen AI and that I was able to use tools such as chatGpt in this class. They provide me with extra time to learn and research. Thank you for the interesting course and assignmnets
